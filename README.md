@@ -1,3 +1,3 @@
 # Figma-to-Html
 
-source code: <a href="https://github.com/ModasirQuayum/Base-Apparel-coming-soon-page">
+source code: [https://github.com/ModasirQuayum/Base-Apparel-coming-soon-page](https://github.com/ModasirQuayum/Base-Apparel-coming-soon-page.git)https://github.com/ModasirQuayum/Base-Apparel-coming-soon-page.git
